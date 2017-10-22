@@ -4,6 +4,8 @@
 
 译者：[飞龙](https://github.com/wizardforcel)（等）
 
+> 这个世界不缺少科学家，缺少能说人话的科学家。
+
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/ml-for-humans/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ml-for-humans)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ml-for-humans)
